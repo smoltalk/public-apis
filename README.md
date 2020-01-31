@@ -1,16 +1,12 @@
-# Public APIs [![Build Status](https://api.travis-ci.org/public-apis/public-apis.svg)](https://travis-ci.org/public-apis/public-apis)
+# APIs that don't require authentication.
 
-A collective list of free APIs for use in software and web development.
+This is a list of free APIs *that do not require authentication.*
+No keys, no Oauth. Less bureacracy, more time for your software project.
 
-Sponsor:
+The bulk of this was forked over from https://github.com/public-apis/public-apis/. (A great project you should check out!)
+But for my purposes, I only wanted APIs that did not require authentication. And that's what this list is.
 
-<a href="https://ultimatecourses.com?utm_source=github.com"><img src="https://ultimatecourses.com/assets/img/banners/ultimate-angular-github.svg" style="width:100%;max-width:100%"></a>
-
-A public API for this project can be found [here](https://github.com/davemachado/public-api) - thanks to [DigitalOcean](https://www.digitalocean.com/) for helping us provide this service!
-
-For information on contributing to this project, please see the [contributing guide](.github/CONTRIBUTING.md).
-
-Please note a passing build status indicates all listed APIs are available since the last update. A failing build status indicates that 1 or more services may be unavailable at the moment.
+**Last updated/checked January 30, 2020.**
 
 ## Index
 
